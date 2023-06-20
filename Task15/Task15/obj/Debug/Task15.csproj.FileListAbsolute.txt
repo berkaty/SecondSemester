@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\task15\Task15\Task15\bin\Debug\Task15.exe.config
+C:\Users\User\Desktop\task15\Task15\Task15\bin\Debug\Task15.exe
+C:\Users\User\Desktop\task15\Task15\Task15\bin\Debug\Task15.pdb
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.exe
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.pdb
+C:\Users\User\Desktop\task15\Task15\Task15\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\task15\Task15\Task15\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\task15\Task15\Task15\obj\Debug\Task15.csproj.CopyComplete
