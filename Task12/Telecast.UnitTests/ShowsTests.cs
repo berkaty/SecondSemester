@@ -14,6 +14,7 @@ namespace ShowsLibrary.UnitTests
             show = new Show("Late Night", "talk-show", "Jimmy Fallon", Frequency.NonPeriodic, "23.05.2003 15:30");
             show2 = new Show("Ministry", "discussion", "Kate Jhonson", Frequency.Daily, "13.06.2023");
         }
+
         [Test]
         public void ConstructorTest()
         {
@@ -23,6 +24,7 @@ namespace ShowsLibrary.UnitTests
             Assert.That(show.Frequency, Is.EqualTo(Frequency.NonPeriodic));
             Assert.That(show.Time.ToShortDateString()+" "+show.Time.ToShortTimeString(), Is.EqualTo("23.05.2003 15:30"));
         }
+
         [Test]
         public void GetInfo_Show_ValuesString()
         {
@@ -44,6 +46,7 @@ namespace ShowsLibrary.UnitTests
             Assert.That(show2.Frequency, Is.EqualTo(Frequency.Daily));
             Assert.That(show2.Time.ToShortDateString(), Is.EqualTo("13.06.2023"));
         }
+
         [Test]
         public void GetInfo_Show_ValuesString_2()
         {
