@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\task15\Exam06\Exam06\bin\Debug\Exam06.exe.config
+C:\Users\User\Desktop\task15\Exam06\Exam06\bin\Debug\Exam06.exe
+C:\Users\User\Desktop\task15\Exam06\Exam06\bin\Debug\Exam06.pdb
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.Properties.Resources.resources
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.csproj.GenerateResource.cache
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.exe
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\Exam06.pdb
+C:\Users\User\Desktop\task15\Exam06\Exam06\obj\Debug\ReversePuzzle.Form1.resources
